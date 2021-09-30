@@ -6,7 +6,6 @@ This Program initializes 3 structures and displays populated results
 #include <iostream>
 #include <iomanip>
 #include <string>
-#include <iomanip>
 using namespace std;
 
 struct timeOfDay {
